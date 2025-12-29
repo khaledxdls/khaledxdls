@@ -1,106 +1,35 @@
-👋 Hi, I’m **Khaled Bachir DELASSI**  
-📍 Laghouat, Algeria  
-💻 Software Engineer | Full-Stack Developer | Problem Solver  
+👋 Hi, I'm Khaled Bachir DELASSI! I live in Laghouat, Algeria I’m a software engineer who harnesses technology to impact the tech industry significantly and beyond.
 
-I design and build scalable web applications, blending strong engineering fundamentals with real-world problem solving. I’m passionate about turning ideas into reliable products that create measurable impact.
+## About Me
+A computer science enthusiast with a solid academic foundation holding a Bachelor's degree in Computer Science and a Master's degree in Business Intelligence. With a genuine passion for web development, I've been on an exciting journey for the past 3 years, diving deep into the world of technology.
 
----
+## Technical Skills 🛠️
+- **Languages:** JavaScript, Java, TypeScript
+- **Frameworks & Libraries:** React, Next.js, Node.js, ExpressJs, Tailwind CSS
+- **Tools & Platforms:** GitHub, Docker, Vercel
+- **Data Science & AI:** Proficient in machine learning concepts and data analysis.
 
-## 🚀 About Me
+## Key Projects 📚
+- **[Clothing web App](https://github.com/khaledxdls/clothes-platform.git):** Created a user-friendly multi-seller e-commerce platform for clothing, offering a seamless experience for both clients and sellers.
+- **[Kalima Web app]:** • Kalima offers a unique approach to language learning by combining interactive quiz games, visual question generation, and a chatbot powered by Chat-GPT-4. Users can enhance their Arabic skills through engaging activities and conversational practice.
+- **[Alpha Web app]:** Provides insurance companies with tools to manage accidents effectively, including an alert system and CRUD operations for various user types.
 
-I’m a software engineer with a **Bachelor’s degree in Information Systems** and a **Master’s degree in Information Systems & Decision Support Systems**.  
-With **3+ years of hands-on experience in web development**, I enjoy working across the stack—from clean, user-focused frontends to robust backend systems and databases.
 
-I thrive in environments that value **clarity, performance, and continuous learning**, and I’m always excited to tackle challenging engineering problems.
+## ACHIEVEMENTS 🌟
+- Won second place in the national competition for the best programmers Coding Master’2024 with the participation of more than 120 students from all over the country. 
 
----
+## Professional Goals 🚀
+- **Career Development:** Focused on furthering my career in software development, specifically in roles that leverage my leadership experience and technical skills in building impactful tech solutions.
+- **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
 
-## 🛠️ Technical Skills
+## Connect with Me 📬
+- 🐦 [Twitter](https://twitter.com/khaledxdls)
+- 📫 [Email](khaleddelassi03@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/khaled-bachir-delassi-625bb3247/)
 
-**Languages**
-- JavaScript (ES6+), TypeScript, Java
+I’m looking forward to collaborating on projects that are at the intersection of technology and social good. Let’s connect! 🌍
 
-**Frontend**
-- React, Next.js, Vite
-- Tailwind CSS, ShadCN UI
-
-**Backend**
-- Node.js, Express
-- REST APIs, Authentication & Authorization
-
-**Databases**
-- PostgreSQL, MySQL, Oracle
-- Firebase
-
-**AI & Data**
-- AI-powered applications
-- Image captioning & LLM-based systems
-- Data analysis & decision support systems
-
-**DevOps & Tools**
-- Git & GitHub
-- Docker
-- Nginx
-- Vercel, AWS (EC2)
-
----
-
-## 📌 Featured Projects
-
-### 🛍️ **Clothing — Multi-Seller eCommerce Platform**
-🔗 https://github.com/khaledxdls/clothes-platform.git  
-A full-featured marketplace where:
-- Sellers create and manage their own boutiques
-- Clients order products from multiple sellers
-- Sellers access performance statistics and insights
-
-**Tech:** React, Node.js, PostgreSQL, Tailwind CSS
-
----
-
-### 📖 **Kalima — AI-Powered Arabic Learning Platform**
-An innovative learning platform based on **constructivist pedagogy**, featuring:
-- AI-generated quizzes from images
-- Interactive chatbot for conversational Arabic
-- Vision-based learning and storytelling
-
-**Tech:** React, Node.js, AI/LLMs, Computer Vision
-
----
-
-### 🚗 **Alpha — Insurance Accident Management System**
-A professional web system for insurance companies to:
-- Manage vehicle accidents end-to-end
-- Coordinate experts, mechanics, and clients
-- Handle contracts, payments, and renewals
-
-**Tech:** Full-stack web architecture with role-based access
-
----
-
-## 🏆 Achievements
-
-- 🥈 **2nd Place – Coding Master 2024**  
-  National programming competition with **120+ participants** from across Algeria.
-
----
-
-## 🎯 Professional Goals
-
-- Build **high-quality, scalable software systems**
-- Grow as a **software engineer in product-driven and high-impact teams**
-- Prepare for and contribute to **top-tier engineering environments (FAANG-level)**
-- Continue exploring **AI-driven applications and system design**
-
----
-
-## 📬 Connect With Me
-
-- 💼 **LinkedIn:** *(add your link)*
-- 📧 **Email:** *(add your email)*
-- 🌐 **Portfolio / Website:** https://ma6lo3a.me
-
----
-
-💡 *Open to collaboration, challenging problems, and impactful projects.*  
-Let’s build something meaningful together.
+<!---
+khaledxdls/khaledxdls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
